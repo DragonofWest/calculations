@@ -9,9 +9,9 @@ The goal was to show that even simple programs can use different parts of the Ja
 
 # Development Environment
 
-Visual Studio code
-Java 17.0.4
-Github
+* Visual Studio code
+* Java 17.0.4
+* Github
 
 # Useful Websites
 
