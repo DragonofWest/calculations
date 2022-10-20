@@ -1,14 +1,11 @@
 # Overview
+I planned to show how to calculate simple equations using the Java language.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program will give you the taxes for a given rate. It can also be used as a simple tip calcuator.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
+The goal was to show that even simple programs can use different parts of the Java language to be useful to people in life.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Calculator Demo](https://youtu.be/_wduet2arR0)
 
 # Development Environment
 
@@ -18,7 +15,6 @@ Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Java](https://code.visualstudio.com/docs/java/)
 * [w3schools Java](https://www.w3schools.com/java)
 * [Oracle Jave](https://www.oracle.com/java/technologies/downloads/)
@@ -28,7 +24,6 @@ Github
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Drop down menues to select states and counties
 * GUI interface
 * Sounds
